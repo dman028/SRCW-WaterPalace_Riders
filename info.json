@@ -1,6 +1,6 @@
 {
   "name": "WaterPalace_Riders",
-  "version": "0.3",
+  "version": "0.4",
   "author": "dman028or853",
   "mod_type": "pak",
   "mod_page": "https://gamebanana.com/sounds/84094",
@@ -10,7 +10,7 @@
         "file_name": "mod.pak",
         "file_path": "mod.pak",
         "file_count": 2,
-        "total_size": 41158526,
+        "total_size": 61631614,
         "mount_point": "",
         "files": [
           "UNION/Content/CriWareData/BGM_STG1018.acb",
@@ -28,13 +28,13 @@
       },
       {
         "path": "UNION/Content/CriWareData/BGM_STG1018.awb",
-        "size": 41044638,
+        "size": 61517726,
         "compressed_size": null,
-        "offset": 85386,
+        "offset": 85390,
         "archive": null
       }
     ],
     "total_files": 2,
-    "total_size": 41158526
+    "total_size": 61631614
   }
 }
